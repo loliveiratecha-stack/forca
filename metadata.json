@@ -1,0 +1,6 @@
+{
+  "name": "Jogo da Forca - Filmes",
+  "description": "Jogo da forca clássico com temas e categorias de filmes de todos os gêneros cinematográficos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
